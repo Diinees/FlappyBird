@@ -4,19 +4,28 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a1d0534-0359-4a96-bf6a-65455136dfce" name="Default Changelist" comment="" />
+    <list default="true" id="0a1d0534-0359-4a96-bf6a-65455136dfce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/mygdx/game/flappybird/game.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/mygdx/game/flappybird/game.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1sMq884kNt2VI8NQn8aPGFtXv9W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -29,5 +38,23 @@
       <updated>1620692647582</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="674" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620693125276">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="674" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.870/-1440.72.1440.870/-214.-1080.1536.834@0.0.1600.870" timestamp="1620693125276" />
+    <state x="704" y="190" key="FileChooserDialogImpl" timestamp="1620692962049">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="704" y="190" key="FileChooserDialogImpl/0.0.1600.870/-1440.72.1440.870/-214.-1080.1536.834@0.0.1600.870" timestamp="1620692962049" />
+    <state x="737" y="333" key="Github.ShareDialog" timestamp="1620693029718">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="737" y="333" key="Github.ShareDialog/0.0.1600.870/-1440.72.1440.870/-214.-1080.1536.834@0.0.1600.870" timestamp="1620693029718" />
+    <state x="647" y="140" key="Github.UntrackedFilesDialog" timestamp="1620693054463">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="647" y="140" key="Github.UntrackedFilesDialog/0.0.1600.870/-1440.72.1440.870/-214.-1080.1536.834@0.0.1600.870" timestamp="1620693054463" />
   </component>
 </project>
