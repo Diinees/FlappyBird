@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a1d0534-0359-4a96-bf6a-65455136dfce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="0a1d0534-0359-4a96-bf6a-65455136dfce" name="Default Changelist" comment="10/05/2021">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/src/com/mygdx/game/flappybird/game.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/mygdx/game/flappybird/game.java" afterDir="false" />
     </list>
@@ -37,7 +36,19 @@
       <option name="presentableId" value="Default" />
       <updated>1620692647582</updated>
     </task>
+    <task id="LOCAL-00001" summary="10/05/2021">
+      <created>1620694226733</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620694226733</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="10/05/2021" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/05/2021" />
   </component>
   <component name="WindowStateProjectService">
     <state x="674" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620693125276">
@@ -56,5 +67,13 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="647" y="140" key="Github.UntrackedFilesDialog/0.0.1600.870/-1440.72.1440.870/-214.-1080.1536.834@0.0.1600.870" timestamp="1620693054463" />
+    <state x="392" y="167" key="Vcs.Push.Dialog.v2" timestamp="1620694571042">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="392" y="167" key="Vcs.Push.Dialog.v2/0.0.1600.870/-1440.72.1440.870/-214.-1080.1536.834@0.0.1600.870" timestamp="1620694571042" />
+    <state x="617" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620694331876">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="617" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.870/-1440.72.1440.870/-214.-1080.1536.834@0.0.1600.870" timestamp="1620694331876" />
   </component>
 </project>

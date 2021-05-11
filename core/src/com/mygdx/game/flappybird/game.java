@@ -39,8 +39,9 @@ public class game extends ApplicationAdapter {
     public void render() {
 
         batch.begin();
-        //Croacao de fundo
-        // Passando especificacoes de tamanho para a imagem
+
+        //Criacao de fundo
+        //Passando especificacoes de tamanho para a imagem
         //Incrmentando para adaptacao
         batch.draw(fundo, 0, 0, larguraDispositivo, alturaDispositivo);
         batch.draw(passaro, 50, 50, moveX, moveY);
